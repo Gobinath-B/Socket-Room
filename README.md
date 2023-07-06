@@ -1,3 +1,3 @@
 # Socket-Room
 
-## Socket Room Application by Express js + Socket.io 👾
+## Chat Room Application by Express js + Socket.io 👾
